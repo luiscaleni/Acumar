@@ -1,0 +1,159 @@
+main{
+    width: 80%;
+    min-height: 90%;
+    margin-top: 8%;
+    color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+    //Inicio
+    #cover{
+        width: 100%;
+        height: auto;
+
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }    
+
+    //Libros
+    .content{
+        width: 25%;
+        height:auto;
+        margin: 5rem 1.5rem 1.5rem 1.5rem;
+        padding: 1rem;
+        border-radius: 0.2rem;
+        box-shadow: 1px 2px 6px #333;
+        background-color: white;
+        
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: flex-start;
+        .div_img_libro{
+            width: 100%;
+            height: auto;
+            margin: 1rem auto;
+
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            img {
+                width: auto;
+                height: 30rem;
+            }
+        }
+        .descripcion{
+            display: none;
+            width: 100%;
+            min-height: 15rem;
+            padding: 0.5em;
+            overflow: auto;
+            line-height: 1.5em;
+            font-size: 20px;
+
+            border: 0px;
+            border-radius: 0.5em;
+            background-color: rgba(255, 255, 255, 0);
+        }
+        h2{
+            width: 100%;
+            height: auto;
+            text-align: center;
+            font-size: 28px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            display: none;
+        }
+        p{
+            width: 100%;
+            height: auto;
+            padding: 1rem;
+
+            line-height: 0.5rem;
+        }
+    }
+
+    //Acerca de
+    #divAcercaDe{
+        text-align: center;
+        padding-bottom: 2rem;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        #divImagenDGPC{
+            width: 100%;
+            height: auto;
+            min-height: 1rem;
+            margin: 1rem auto;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        p{
+            width: 90%;
+            height: auto;
+        }
+    }
+
+    //Alumnos
+    #divContentCarrousel{
+        width: 100%;
+        height: 100%;
+        padding: 2rem;
+        #divCarrousel{
+            width: 100%;
+            min-height: 22rem;
+    
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            align-content: center;
+            flex-wrap: wrap;
+            flex-direction: column;
+            #divImagen{
+                width: 70%;
+                height: 70%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                align-content: center;
+               img{
+                    width: 50%;
+                    /*border-radius: 50%;*/
+                    height: 50%;
+                    margin-bottom: 1rem;
+                }
+            }
+        }
+
+        #divButton{
+            width: 100%;
+            height: auto;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            button{
+                cursor: pointer;
+                width: 3rem;
+                height: 3rem;
+                margin: 0.5rem;
+                color: white;
+                border: 0rem;
+                border-radius: 0.5rem;
+                box-shadow: 0.1rem 0.2rem 0.5rem #000;
+                background-color: $color;
+            }
+        }
+
+    }
+
+}

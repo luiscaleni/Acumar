@@ -1,0 +1,359 @@
+{
+    "libros": [
+        {
+            "nombre": "el peletero",
+            "titulo": "El Peletero",
+            "autor": "Luis Guzman",
+            "editorial": "Edhasa",
+            "publicacion": 2007,
+            "descripcion": "Landa, peletero e hijo de peleteros, no concibe su vida fuera de ese mundo destinado a la desaparecer y no admite la derrota con resignación. No está solo: el azar, y también cierta inclinación a la mentira, le deparan un socio inesperado, Hueso. Cada uno busca su venganza, si se quiere, un modesto ajuste de cuentas.",
+            "img": "src/views/assets/imgLibros/elPeletero.jpg"
+        },
+        {
+            "nombre": "el campito",
+            "titulo": "El campito",
+            "autor": "Juan Diego Incardona",
+            "editorial": "Interzona",
+            "publicacion": 2009,
+            "descripcion": "Juan Diego Incardona lleva las posibilidades de ese escenario al límite. En un relato dantesco donde los residuos industriales crean animales fabulosos, las escenas de la Divina Comedia se entrelazan a la mitología barrial y peronista, y la vida cotidiana no se distingue claramente del teatro de operaciones de una batalla que necesita ser contada. Tiene también la virtud de mostrarnos de manera casi inmediata, realista y al mismo tiempo fantástica y piadosa, el modo en el que se anudan el loteo suburbano y sus personajes a un gran relato nacional.",
+            "img": "../src/views/assets/imgLibros/elCampito.jpg"
+        },
+        {
+            "nombre": "florentina",
+            "titulo": "Florentina",
+            "autor": "Eduardo Muslip",
+            "editorial": "Caballo de Troya",
+            "publicacion": 2018,
+            "descripcion": "Una emocionante novela que nos traslada al siglo XX de la mano de Florentina, abuela del autor y emigrante gallega en Buenos Aires, a la vez que nos presenta dos mundos distintos: España y Argentina.",
+            "img": "../src/views/assets/imgLibros/florentina.jpg"
+        },
+        {
+            "nombre": "riachuelo. zona de promesas.",
+            "titulo": "Riachuelo. Zona de promesas",
+            "autor": "Beatriz Mendoza",
+            "editorial": "UNDAV Ed.",
+            "publicacion": 2017,
+            "descripcion": "La contaminación ambiental del Río Matanza-Riachuelo es una problemática que parece no tener fin. En 2004 fue llevada a instancias judiciales por un grupo de vecinos que presentaron una demanda en reclamo de la recomposición del ambiente y la creación de un fondo para financiar el saneamiento. Esa situación dio origen a la denominada “Causa Mendoza”, en la que se responsabilizaba por daños y perjuicios al Estado Nacional, la provincia de Buenos Aires, la Ciudad Autónoma de Buenos Aires y a 44 empresas.",
+            "img": "../src/views/assets/imgLibros/riachueloPromesas.jpg"
+        },
+        {
+            "nombre": "politica, derechos y justicia ambiental. el conflicto del riachuelo",
+            "titulo": "Política, derechos y justicia ambiental. El conflicto del Riachuelo",
+            "autor": "Gabriela Merlinsky",
+            "editorial": "Fondo de Cultura Económica",
+            "publicacion": 2013,
+            "descripcion": "Gabriela Merlinsky analiza las demandas sociales y la construcción de políticas públicas en torno al saneamiento de las cuencas hídricas del río argentino Matanza-Riachuelo.",
+            "img": "../src/views/assets/imgLibros/politicaDerechos.jpg"
+        },
+        {
+            "nombre": "el color del rio",
+            "titulo": "El color del río",
+            "autor": "Graciela Silvestri",
+            "editorial": "UNQ (Un. Nac. de Quilmes",
+            "publicacion":  2003,
+            "descripcion": "¿Cómo se produce un paisaje industrial? Este libro relata la biografía del Riachuelo como paisaje, a través de materiales tan diversos como diversos son los elementos que lo constituyen.",
+            "img": "../src/views/assets/imgLibros/colorRio.jpg"
+        },
+       
+        {
+            "nombre": "barrio gris",
+            "titulo": "Barrio Gris",
+            "autor": "Gómez Bas",
+            "editorial": "Hyspamérica - Emecé",
+            "publicacion": 1952,
+            "descripcion": "Desde su aparición, Barrio Gris se consagró como una de las novelas destinadas a permanecer en la historia de la literatura argentina. Muchos méritos le otorgaban esa jerarquía: el indiscutible talento con que su autor, Joaquín Gómez Bas, había eludido los convencionales esquemas de toda pintura de arrabal, con lealtad mayor a su autenticidad de escritor que a las obligaciones de un realismo paradójicamente retórico; la calidad humana nunca desmentida de sus personajes; el estilo, que debe su fluidez a un ajuste perfecto y a la aparente simplicidad, y sobre todo, y en primer término, el milagro que se concreta en Barrio gris y que Proust menciona en El tiempo recobrado: la recreación de las sensaciones producida en ese estado de gracia que permite al autor entregarlas intactas a su público, sin desmedro del elaborado e invisible proceso de objetivación intelectual que las transforma en verdadero elemento de ficción. Barrio gris es la novela que ningún lector olvida.",
+            "img": "../src/views/assets/imgLibros/barrioGris.jpg"
+        },
+        {
+            "nombre": "los muertos del riachuelo",
+            "titulo": "Los muertos del Riachuelo",
+            "autor": "Hernán Domínguez Nimo",
+            "editorial": "Interzona",
+            "publicacion": 2018,
+            "descripcion": "El autor incursiona en una Argentina posible y construye una alegoría loca que hace reír y horroriza, una trama tan absurda como verdadera porque sale de su propio, su más actual barro maloliente. En la frontera de Buenos Aires, las aguas negras y aceitosas del Riachuelo esconden muertos. Cada muerto es una historia, una deuda, una injusticia impune. Contaminación, política corrupta, un Estado que abandona a la gente más vulnerable son causas previsibles. Lo imprevisible es lo que está por ocurrir",
+            "img": "../src/views/assets/imgLibros/losMuertos.jpg"
+        },
+        {
+            "nombre": "la boca roja del riachuelo",
+            "titulo": "La boca roja del Riachuelo. ",
+            "autor": "Graciela Ramos",
+            "editorial": "SUMA (Random)",
+            "publicacion": 2017,
+            "descripcion": "Una joven es atrapada por una red de trata en la Buenos Aires convulsa de principios del siglo XX. Amor, luchas y pasiones en una novela absorbente.",
+            "img": "../src/views/assets/imgLibros/bocaRoja.jpg"
+        },
+        {
+            "nombre": "el Riachuelo",
+            "titulo": "El Riachuelo",
+            "autor": "Antonio Brailovsky",
+            "editorial": "CEAL",
+            "publicacion": 0,
+            "descripcion": "Uno de los aspectos más incomprensibles de la cuestión ambiental en la Argentina es la inacción referida al Riachuelo. La última vez que alguien se tomó en serio el problema fue bajo la presidencia de Sarmiento, cuando la Legislatura de la Provincia de Buenos Aires ordenó erradicar las industrias contaminantes de sus márgenes, orden que, por otra parte, fue cumplida estrictamente.",
+            "img": "../src/views/assets/imgLibros/AntonioBrailosvky.jpg"
+        },
+        {
+            "nombre": "las cosas que perdimos en el fuego (bajo el agua negra)",
+            "titulo": "Las cosas que perdimos en el fuego (Bajo el agua negra)",
+            "autor": "Mariana Enriquez",
+            "editorial": "Anagrama (Ver Riverside)",
+            "publicacion": 2016,
+            "descripcion": "Las cosas que perdimos en el fuego es la segunda colección de cuentos de la escritora argentina Mariana Enríquez, publicada en 2016 por la editorial Anagrama. La obra cuenta con 12 relatos enmarcados en el género del terror, en los que Enríquez explora temáticas sociales como la depresión, la pobreza,  los desórdenes alimenticios,  la desigualdad y la violencia de género. ",
+            "img": "../src/views/assets/imgLibros/cosasPerdimos.jpeg"
+        },
+        {
+            "nombre": "sangre salada",
+            "titulo": "Sangre salada",
+            "autor": "Sebastián Hacher",
+            "editorial": "Marea editorial ",
+            "publicacion": 2011,
+            "descripcion": "Una narración vertiginosa sobre la feria textil ilegal más grande de Latinoamérica. Sangre Salada cuenta la saga de familias migrantes capaces de lidiar con la muerte y con el trabajo a destajo, entre la ambición y el sometimiento a las redes ilegales, siempre bajo la sombra de policías corruptos y jefes tan implacables como bizarros.",
+            "img": "../src/views/assets/imgLibros/sangreSalada.jpg"
+        },
+        {
+            "nombre": "la salada",
+            "titulo": "La Salada",
+            "autor": "Nacho Giron",
+            "editorial": "Planeta",
+            "publicacion": 2011,
+            "descripcion": "El trabajo de Nacho Girón, una magistral pieza de la investigación periodística, está hecho de voces; voces del subsuelo que fueron construyendo la arquitectura del paseo comercial más popular de América Latina",
+            "img": "../src/views/assets/imgLibros/laSalada.jpg"
+        },
+        {
+            "nombre": "los otros",
+            "titulo": "Los otros",
+            "autor": "Josefina Licitra",
+            "editorial": "Debate",
+            "publicacion": 2011,
+            "descripcion": "Josefina viajó hasta un lugar del conurbano bonaerense que, décadas atrás, pudo ser un jardín pero terminó en desangradero. Volvió con este relato intenso en el que se mezclan cloacas, curtiembres, ríos pútridos y muertos jóvenes, una historia de vecindad amarga de los que tienen poco contra los que no tienen nada, aunque todos hayan llegado hasta allí buscando más o menos lo mismo. Y aunque, por supuesto, ya nadie se acuerde de eso",
+            "img": "../src/views/assets/imgLibros/losOtros.png"
+        },
+        {
+            "nombre": "el riachuelo",
+            "titulo": "El Riachuelo",
+            "autor": "Martín Kohan",
+            "editorial": "Cuaderno Lírico",
+            "publicacion": 2018,
+            "descripcion": "Ese río ni nombre tiene. Porque dio en llamarse “Riachuelo”, que es más una designación que un nombre, que es un sustantivo común (porque el río es eso: común) antes que un sustantivo propio (porque el río nada tiene de propio). Llamarlo “riacho”, decirle “riacho”, habría supuesto ya de por sí una disminución; “riachuelo” implica entonces una doble reducción, decirle al río dos veces que es pequeño, que es menor, que es poca cosa. El Riachuelo tiene pues la impronta de lo desestimado: la fuerza de lo desestimado. Sin eso su paisaje no sería lo que es.",
+            "img": "../src/views/assets/imgLibros/elRiachuelo.jpg"
+        },
+        {
+            "nombre": "aguas arriba",
+            "titulo": "Aguas arriba",
+            "autor": "Andrea Cuesta Ferrarazzo y Silvina Babich",
+            "editorial": "EDULP",
+            "publicacion": 2019,
+            "descripcion": "Las navegaciones y recorridas por el espacio costero del Riachuelo realizadas entre 2014 y 2016 generaron una diversidad de producciones que merecían hacerse visibles para exponer y compartir la transformación del paisaje de la cuenca baja del Riachuelo.",
+            "img": "../src/views/assets/imgLibros/aguasArriba.jpg"
+        },
+        {
+            "nombre": "el rio y  la ciudad",
+            "titulo": "El río y  la ciudad",
+            "autor": "VV. AA.",
+            "editorial": "EDUNER",
+            "publicacion": 2019,
+            "descripcion": "«¿Qué fue primero? ¿El río o la ciudad?», se plantea al comienzo Laura Gentilezza, responsable de este volumen. Y la pregunta atraviesa ágil todos los trabajos de este libro, distintos y al mismo tiempo confluyentes. Cualquier respuesta no puede sino regresarnos al inicio, como bien concluye Gentilezza: «El río ha señalado el lugar en donde habrían de asentarse las ciudades que se benefician de las ventajas económicas e higiénicas procuradas por su proximidad. Las ciudades han dibujado alrededor de los ríos el marco que recorta su ritmo y los ingresa en el movimiento de la historia». ¿Qué fue primero?",
+            "img": "../src/views/assets/imgLibros/elRio2.jpg"
+        },
+        {
+            "nombre": "agua y territorio",
+            "titulo": "Agua y territorio",
+            "autor": "María Di Pace",
+            "editorial": "Ciccus",
+            "publicacion": 2012,
+            "descripcion": "Destacada obra colectiva que explora la complejidad que surge de lo9s problemas vinculados con el manejo del agua. El Área de Ecología Urbana perteneciente al Instituto del Conurbano de la Universidad Nacional de General Sarmiento, se complace en presentar esta publicación. El equipo viene trabajando interdisciplinariamente en la temática de las cuencas hídricas de RMBA desde el año 1999. La presente publicación sintetiza diversas experiencias de investigación con el objetivo de contribuir a una perspectiva metropolitana. ",
+            "img": "../src/views/assets/imgLibros/aguaY.jpg"
+        },
+        {
+            "nombre": "la boca del riachuelo",
+            "titulo": "La Boca del Riachuelo",
+            "autor": "José Pugliese",
+            "editorial": "Agrupación de Gente arte y Letras Impulso",
+            "publicacion": 1978,
+            "descripcion": "La Boca del Riachuelo : sus calles, plazas y puentes : origen, evolucion y significado de sus nombres",
+            "img": "../src/views/assets/imgLibros/laBoca.jpg"
+        },
+        {
+            "nombre": "la boca del riachuelo en la historia",
+            "titulo": "La Boca del Riachuelo en la Historia",
+            "autor": "Antonio Bucich",
+            "editorial": "Asociación de amigos de la escuela-museo de Bellas Artes de La Boca",
+            "publicacion": 1971,
+            "descripcion": "De la Asociación Amigos de la Escuela-Museo de Bellas Artes de la Boca",
+            "img": "../src/views/assets/imgLibros/bocaRiachuelo.jpg"
+        },
+        {
+            "nombre": "historia de la boca del riachuelo",
+            "titulo": "Historia de la Boca del Riachuelo",
+            "autor": "Enrique Gandía",
+            "editorial": "Ateneo Popular de La Boca",
+            "publicacion": 1939,
+            "descripcion": "Buenos Aires : Ateneo popular de la boca",
+            "img": "../src/views/assets/imgLibros/historiaBoca.jpg"
+        },
+        {
+            "nombre": "buenos aires. ciudad inundable",
+            "titulo": "Buenos Aires. Ciudad inundable",
+            "autor": "Antonio Brailovsky",
+            "editorial": "Capital Intelectual",
+            "publicacion": 2010,
+            "descripcion": "¿Por qué se inunda Buenos Aires? En este libro Antonio Elio Brailovsky recorre los casi cinco siglos de vida de la urbe fundada en 1536 por Pedro de Mendoza, estudia el progresivo avance de la urbanización sobre las zonas inundables en la Ciudad de Buenos Aires y su rea Metropolitana y corrobora una hipótesis contundente: los desastres naturales no existen; la inundación de Buenos Aires no es obra de la fatalidad; para lograr que se inundara fue necesario un proceso de lenta construcción social.",
+            "img": "../src/views/assets/imgLibros/ciudadInundable.png"
+        },
+        {
+            "nombre": "la argentina",
+            "titulo": "La Argentina",
+            "autor": "Ruy Díaz de Guzmán",
+            "editorial": "Claridad",
+            "publicacion": 1612,
+            "descripcion": "La Argentina de Ruy Díaz de Guzmán, concluida en 1612, obra liminar de la historiografía y la literatura, es uno de los primeros grandes discursos sobre la conformación inicial del espacio rioplatense, discurso donde la sangre india del origen se subsume en la concepción de un territorio escrito y descripto desde la mismidad europea.",
+            "img": "../src/views/assets/imgLibros/laArgentina.jpg"
+        },
+        {
+            "nombre": "el principito",
+            "titulo": "El principito",
+            "autor": "Antoine de Saint-Exupéry",
+            "publicacion": 1943,
+            "descripcion": "Un pequeño príncipe parte de su asteroide a una travesía por el universo, en la cual descubre la extraña forma en que los adultos ven la vida y comprende el valor del amor y la amistad.",
+            "img": "../src/views/assets/imgLibros/principito.jpg"
+        },
+        {
+            "nombre": "rayuela",
+            "titulo": "Rayuela",
+            "autor": "Julio Cortázar",
+            "publicacion": 1963,
+            "descripcion": "Rayuela narra la historia de Horacio Oliveira, su protagonista, y su relación con «la Maga». La historia pone en juego la subjetividad del lector y tiene múltiples finales. A esta obra suele llamársela «antinovela», aunque el mismo Cortázar prefería denominarla «contranovela».",
+            "img": "../src/views/assets/imgLibros/rayuela.jpg"
+        },
+        {
+            "nombre": "harry potter y la piedra filosofal",
+            "titulo": "Harry Potter y la piedra filosofal",
+            "autor": "J. K. Rowling",
+            "publicacion": 1997,
+            "descripcion": "Harry Potter y la piedra filosofal (título original en inglés, Harry Potter and the Philosopher’s Stone), es el primer libro de la serie literaria Harry Potter, escrito por la autora británica J. K. Rowling en 1997, que supuso además el debut de Rowling como escritora profesional.",
+            "img": "../src/views/assets/imgLibros/harryPotter.jpg"
+        },
+        {
+            "nombre": "cuentos de grimm",
+            "titulo": "Cuentos de Grimm",
+            "autor": "Wilhelm Grimm, Hermanos Grimm, Jacob Grimm",
+            "publicacion": 1812,
+            "descripcion": "Cuentos de la infancia y del hogar es un célebre libro de cuentos de hadas alemán de tradición oral, recopilado por los hermanos Grimm, Jacob y Wilhelm",
+            "img": "../src/views/assets/imgLibros/cuentosGrimm.jpg"
+        },
+        {
+            "nombre": "bilembambudin o el ultimo mago",
+            "titulo": "Bilembambudin o El último mago",
+            "autor": "Elsa Bornemann",
+            "publicacion": 1979,
+            "descripcion": "Guiada por Jeremías, el último mago, Aldana llega al reino de Bilembambudín para cumplir una importante misión. Un dragón, un ratoncito charlatán, fantasmas, hombres-globo, la gata Babelunas... hasta los hijos de la Naturaleza colaboran para que pueda llegar a la meta. Gracias a su coraje, la joven protagonista vive apasionantes aventuras y, además, descubre un valioso secreto que compartirá con los lectores.",
+            "img": "../src/views/assets/imgLibros/elUltimoMago.jpg"
+        },
+        {
+            "nombre": "charlie y la fabrica de chocolate",
+            "titulo": "Charlie y la fábrica de chocolate",
+            "autor": "Roald Dahl",
+            "publicacion": 1979,
+            "descripcion": "Charlie y la fábrica de chocolate es una novela infantil que narra la historia de Charlie Bucket, un niño rodeado de pobreza extrema, cuyo destino cambia al conocer al excéntrico Willy Wonka, dueño de la fábrica de chocolate cercana a su casa.",
+            "img": "../src/views/assets/imgLibros/charlieFabrica.jpg"
+        },
+        {
+            "nombre": "hansel y gretel",
+            "titulo": "Hansel y Gretel",
+            "autor": "Hermanos Grimm",
+            "publicacion": 1812,
+            "descripcion": "Hansel y Gretel (en alemán, Hänsel und Gretel) es un cuento de hadas alemán recogido por los hermanos Grimm y publicado en 1812",
+            "img": "../src/views/assets/imgLibros/hanselGretel.jpg"
+        },
+
+        {
+            "nombre": "los tres mosqueteros",
+            "titulo": "Los tres mosqueteros",
+            "autor": "Alejandro Dumas",
+            "publicacion": 1844,
+            "descripcion": "La novela narra las aventuras de un joven gascón de 18 años, conocido como d'Artagnan, que se va a París para hacerse mosquetero. Los verdaderos mosqueteros son Athos, Porthos y Aramis, amigos inseparables que viven bajo el lema «Uno para todos, todos para uno». D'Artagnan primero se enfrenta separadamente a cada uno de ellos, pero terminan siendo sus amigos",
+            "img": "../src/views/assets/imgLibros/tresMosqueteros.jpg"
+        },
+
+        {
+            "nombre": "orgullo y prejuicio",
+            "titulo": "Orgullo y prejuicio",
+            "autor": "Jane Austen",
+            "publicacion": 1813,
+            "descripcion": "Orgullo y prejuicio es una novela de desarrollo personal, en la que las dos figuras principales, Elizabeth Bennet y Fitzwilliam Darcy, cada uno a su manera y, no obstante, de forma muy parecida, deben madurar para superar algunas crisis y aprender de sus errores para poder encarar el futuro en común, superando el orgullo de clase de Darcy y los prejuicios de Elizabeth hacia él.",
+            "img": "../src/views/assets/imgLibros/orgulloPrejuicio.jpg"
+        },
+
+        {
+            "nombre": "diario de ana frank",
+            "titulo": "Diario de Ana Frank",
+            "autor": "Ana Frank",
+            "publicacion": 1952,
+            "descripcion": "Con el título de El diario de Ana Frank se conoce la edición de los diarios personales escritos por Ana Frank entre el 12 de junio de 1942 y el 1 de agosto de 1944 en un total de tres cuadernos conservados en la actualidad,1​ donde relata su historia como adolescente y los dos años en que permaneció oculta de los nazis, con su familia alemana de origen judío, en Ámsterdam durante la Segunda Guerra Mundial hasta que fue descubierta.",
+            "img": "../src/views/assets/imgLibros/anaFrank.jpg"
+        },
+
+        {
+            "nombre": "frankenstein o el moderno prometeo",
+            "titulo": "Frankenstein o el moderno Prometeo",
+            "autor": "Mary Shelley",
+            "publicacion": 1823,
+            "descripcion": "Frankenstein o el moderno Prometeo, o simplemente Frankenstein (título original en inglés: Frankenstein; or, The Modern Prometheus), es una obra literaria enmarcada en la tradición de la novela gótica, el texto habla de temas tales como la moral científica, la creación y destrucción de vida y el atrevimiento de la humanidad en su relación con Dios. De ahí, el subtítulo de la obra: el protagonista intenta rivalizar en poder con Dios, como una suerte de Prometeo moderno que arrebata el fuego sagrado de la vida a la divinidad. Aunque Frankenstein está impregnado de elementos de la novela gótica y el movimiento romántico, el escritor y editor de ciencia ficción Brian Aldiss ha argumentado que debería considerarse la primera historia verdadera de ciencia ficción.",
+            "img": "../src/views/assets/imgLibros/frankenstein.jpg"
+        },
+
+        {
+            "nombre": "la casa de bernarda alba",
+            "titulo": "La casa de Bernarda Alba",
+            "autor": "Federico García Lorca",
+            "publicacion": 1945,
+            "descripcion": "La casa de Bernarda Alba es una obra teatral en tres actos escrita en 1936 por Federico García Lorca. Expone la historia de Bernarda Alba, que tras haber enviudado por segunda vez a los 60 años, decide vivir los siguientes ocho años en el más riguroso luto. Lorca describe la 'España profunda' de principios del siglo XX, caracterizada por una sociedad tradicional muy violenta en la que el papel que la mujer juega es secundario. Otros rasgos destacados son el fanatismo religioso y el miedo a descubrir la intimidad. Con Bernarda viven sus cinco hijas (Angustias, Magdalena, Amelia, Martirio y Adela), su madre y sus dos criadas. Entre estas últimas se encuentra Poncia, una criada que ha vivido muchos años al servicio de la anciana.",
+            "img": "../src/views/assets/imgLibros/bernardaAlba.jpg"
+        },
+
+        {
+            "nombre": "dracula",
+            "titulo": "Drácula",
+            "autor": "Bram Stoker",
+            "publicacion": 1897,
+            "descripcion": "Drácula es una novela publicada en 1897 por el irlandés Bram Stoker, a raíz de la cual, su personaje antagonista, el conde Drácula, se volvió el arquetipo de vampiro occidental por antonomasia, llegando a ser considerado el vampiro más famoso. Se dice que el escritor se basó en las conversaciones que mantuvo con el erudito húngaro Arminius Vámbéry, quien le habló de Vlad Drăculea. La novela, escrita de manera epistolar, presenta otros temas, como el papel de la mujer en la época victoriana, la ciencia y la superstición, la sexualidad, la inmigración, el colonialismo o el folclore.",
+            "img": "../src/views/assets/imgLibros/dracula.jpg"
+        },
+
+        {
+            "nombre": "la invencion de morel",
+            "titulo": "La invención de Morel",
+            "autor": "Adolfo Bioy Casares",
+            "publicacion": 1940,
+            "descripcion": "En la novela La invención de Morel, la primera del escritor argentino Adolfo Bioy Casares, se plantea el tema del eterno regreso y se despliega una discusión sobre la percepción del hombre, al ubicarse en el mundo del que forma parte. En ese sentido, el protagonista se percibe frente a una situación fantástica que le permite ampliar su concepto de realidad y evaluar sus consideraciones hacia la realidad y lo fantástico. Entonces, debatimos, aquí, el tema de la percepción del tiempo, a través de eterno retorno, y de lo fantástico como elemento que constituye la realidad humana, en la novela de Bioy Casares.",
+            "img": "../src/views/assets/imgLibros/invensionMorel.jpg"
+        },
+
+        {
+            "nombre": "el Reino del Reves",
+            "titulo": "El Reino del Reves",
+            "autor": "Maria Elena Walsh",
+            "publicacion": 2000,
+            "descripcion": "En El Reino del Revés se encuentran las canciones más conocidas de María Elena Walsh y otros bellos poemas: 'Manuelita la Tortuga', 'Marcha de Osías', 'Canción del Jardinero', 'Twist del Mono Liso', 'La Reina Batata', 'El Reino del Revés'... Con este libro vas a disfrutar y a cantar desde la primera hasta la última página.",
+            "img": "../src/views/assets/imgLibros/reinoDelReves.png"
+        },
+
+        {
+            "nombre": "las viudas de los jueves",
+            "titulo": "Las Viudas De Los Jueves",
+            "autor": "Piñeiro Claudia",
+            "publicacion": 2014,
+            "descripcion": "Detrás de las altas paredes perimetrales, más allá de los portones reforzados por barreras y flanqueados por garitas de vigilancia, se encuentra Altos de la Cascada. Afuera, la ruta, la barriada popular de Santa María de los Tigrecitos, la autopista, la ciudad, el resto del mundo. En Altos de la Cascada viven familias que llevan un mismo estilo de vida y que quieren mantenerlo cueste lo que cueste. Allí, en el country, un grupo de amigos se reúne semanalmente lejos de las miradas de sus hijos, sus empleadas domésticas y sus esposas, quienes, excluidas del encuentro varonil, se autodenominan, bromeando, las viudas de los jueves. Pero una noche la rutina se quiebra y ese hecho permite descubrir, en un país que se desmorona, el lado oscuro de una vida perfecta.",
+            "img": "../src/views/assets/imgLibros/viudas.png"
+        },
+
+        {
+            "nombre": "sin rumbo",
+            "titulo": "Sin rumbo",
+            "autor": "Eugenio Cambaceres",
+            "publicacion": 1885,
+            "descripcion": "Sin rumbo narra la historia de Andrés, un joven que, cansado del aburrimiento de su hacienda, decide ir a la casa del puestero y comienza un romance clandestino con la hija del mismo. Donata, a quien abandona luego de dejar embarazada. En la ciudad concurre al Teatro Colón y comienza un romance con una cantante de ópera, pero al poco tiempo se aburre y decide regresar a su hacienda de campo.",
+            "img": "../src/views/assets/imgLibros/sinRumbo.jpg"
+        }
+
+    ]
+}

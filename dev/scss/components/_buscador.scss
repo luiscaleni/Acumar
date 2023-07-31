@@ -1,0 +1,24 @@
+#id-buscador{
+    width: 100%;
+    height: auto;
+    padding: 1rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    #i_search{
+        width: 50%;
+        height: 2rem;
+        margin: 0.5rem;
+        padding: 0.5rem;
+        border: none;
+        border-radius: 0.5rem;
+    }
+    select, button{
+        width: 25%;
+        height: 2rem;
+        margin: 0.5rem;
+        border: none;
+        border-radius: 0.5rem;
+    }
+}
